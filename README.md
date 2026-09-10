@@ -11,7 +11,7 @@
 
 ## Установка
 
-Скачайте готовый `.deb` пакет со страницы [Releases](https://github.com/CoditNETs/pipertts/releases/tag/v1.2.0) и установите его через `dpkg`:
+Скачайте готовый `.deb` пакет со страницы [Releases](https://github.com/CoditNETs/pipertts/releases/tag/1.2.0-codit1) и установите его через `dpkg`:
 ```bash
 dpkg -i pipertts_1.2.0_amd64.deb
 ```
