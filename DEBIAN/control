@@ -1,0 +1,9 @@
+Package: piper-tts
+Version: 1.2.0-codit1
+Section: sound
+Priority: optional
+Architecture: amd64
+Maintainer: CoditNETs <coditnets@gmail.com>
+Depends: alsa-utils
+Description: Offline VITS-based Text-to-Speech Engine with Irina voice.
+ Piper TTS packaged completely into /usr/local tree with wrapper script.
